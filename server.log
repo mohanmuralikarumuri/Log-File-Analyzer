@@ -1,0 +1,8 @@
+INFO Server started
+INFO User logged in
+WARNING CPU usage is high
+ERROR Database connection failed
+INFO User logged out
+ERROR Server timeout
+WARNING Memory usage is high
+INFO Server restarted
